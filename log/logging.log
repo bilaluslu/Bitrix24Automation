@@ -123,3 +123,23 @@
 2020-08-08 12:47:57 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
 2020-08-08 12:48:03 INFO  ActivityStreamPage:46 - Clicking on the Send button
 2020-08-08 12:48:03 INFO  Hooks:32 - ::: Ending automation :::
+2020-11-10 10:04:20 INFO  Hooks:18 - ::: Starting automation :::
+2020-11-10 10:04:20 INFO  Hooks:19 - Browser type: remote-chrome
+2020-11-10 10:04:20 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-11-10 10:04:20 INFO  Driver:41 - Browser :: remote-chrome
+2020-11-10 10:04:42 INFO  Hooks:27 - Taking a screenshot
+2020-11-10 10:04:42 INFO  Driver:41 - Browser :: remote-chrome
+2020-11-10 10:05:00 INFO  Hooks:18 - ::: Starting automation :::
+2020-11-10 10:05:00 INFO  Hooks:19 - Browser type: chrome
+2020-11-10 10:05:00 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-11-10 10:05:00 INFO  Driver:41 - Browser :: chrome
+2020-11-10 10:05:01 INFO  WebDriverManager:573 - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-11-10 10:05:01 INFO  WebDriverManager:882 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-11-10 10:05:02 INFO  Downloader:124 - Downloading https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip
+2020-11-10 10:05:03 INFO  Downloader:178 - Extracting binary from compressed file chromedriver_win32.zip
+2020-11-10 10:05:03 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\uslub\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-11-10 10:05:11 INFO  LoginPage:46 - Logins as hr
+2020-11-10 10:05:12 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-11-10 10:05:12 INFO  ActivityStreamPage:37 - File path: C:\Users\uslub\IdeaProjects\Bitrix24Automation/src\test\resources\testData\testImage.png
+2020-11-10 10:05:17 INFO  ActivityStreamPage:46 - Clicking on the Send button
+2020-11-10 10:05:18 INFO  Hooks:32 - ::: Ending automation :::
